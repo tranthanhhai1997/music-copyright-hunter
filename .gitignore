@@ -1,1 +1,9 @@
-__pycache__/\n*.pyc\n*.mp3\n*.wav\n*.m4a\nreport.md\nreport.json\n.venv/\n
+__pycache__/
+*/__pycache__/
+*.pyc
+*.mp3
+*.wav
+*.m4a
+report.md
+report.json
+.venv/
